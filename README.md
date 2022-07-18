@@ -1,4 +1,4 @@
-# netflix-clone
+# Netflix-Clone
 
 The Project aims to implement a clone of NETFLIX Official Website using Front-end Technologies.
 
